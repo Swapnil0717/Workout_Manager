@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/workout_manager
     username: root
-    password: Pratiksha
+    password: YourPassword
 
   jpa:
     hibernate:
@@ -14,8 +14,8 @@ spring:
       client:
         registration:
           google:
-            client-id: 55102257680-is7jr9edj5271l0mkqd159f6tcist8fp.apps.googleusercontent.com
-            client-secret: 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
+            client-id: YourId
+            client-secret: YourSecret
             scope: email, profile
 
 jwt:
