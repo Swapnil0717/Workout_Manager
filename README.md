@@ -66,7 +66,8 @@ com.example.Workout.Manager
 ### Setup
 1. Clone the repository:
 ```bash
-git clone <>
+
+git clone <https://github.com/Swapnil0717/Workout_Manager.git>
 
 2. Configure your MySQL database in application.yml:
 
